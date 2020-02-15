@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "vuepress": "^0.14.11"
+  },
+  "dependencies": {
+    "lodash.debounce": "latest"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
