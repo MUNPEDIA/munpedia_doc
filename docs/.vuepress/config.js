@@ -2,7 +2,7 @@ module.exports = {
     title: 'MUNPEDIA 模联知识库',
     description: '关于模联，你想知道的一切',
     themeConfig: {
-        repo: 'https://github.com/MUNPEDIA/munpedia_doc.git',
+        repo: 'https://github.com/MUNPEDIA/munpedia_doc',
         repoLabel: '参与编辑',
         docsDir: 'docs',
         editLinks: true,
