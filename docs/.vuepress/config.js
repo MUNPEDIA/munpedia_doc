@@ -45,7 +45,6 @@ module.exports = {
 
             ]
             },
-            {text: '模时Munshare', link:'munshare.com'},
 
 
 
@@ -222,9 +221,8 @@ function getHostSidebar(){
 function getAdvancedSidebar(){
     return[
         '',
-        '3MUNvocabulary',
+        'Resource',
         'MUNvocabulary',
-        'Intro',
         'Crisis Committee',
         'LinkageSystem',
         'Historical Committee',

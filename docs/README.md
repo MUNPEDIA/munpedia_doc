@@ -4,7 +4,7 @@ heroImage: /munpedia.svg
 heroText: MUNPEDIA 模联知识库
 tagline: 关于模联，你想知道的一切
 actionText: 开始探索 →
-actionLink: /topic_intro_mun/
+actionLink: /topic_intro_munpedia/
 footer: CC BY-NC-SA 4.0 Licensed | Contact：mpedia@munshare.com | Copyright © 2020 Munshare
 ---
 
