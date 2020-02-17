@@ -1,7 +1,14 @@
 
 # 编辑须知
 
-MUNPEDIA文档所有内容以Markdown文件形式托管在代码平台上，静态网页基于[VuePress](https://v1.vuepress.vuejs.org/)框架生成。我们十分欢迎对于普及模拟联合国及相关衍生活动有热忱之人士参与对MUNPEDIA的完善和修改，参与编辑另需要Markdown语言和Git知识。
+## 1. 直接编辑
+
+点击文档左下角帮助我们改进本篇内容，可以直接进入github修改。MUNPEDIA文档所有内容以Markdown文件形式托管在代码平台上，静态网页基于[VuePress](https://v1.vuepress.vuejs.org/)框架生成。我们十分欢迎对于普及模拟联合国及相关衍生活动有热忱之人士参与对MUNPEDIA的完善和修改，直接参与编辑另需要Markdown语言和Git知识。
+
+## 2. 成稿发送
+
+根据[MUNPEDIA内容模板](/topic_intro_munpedia/4Example.html)完成的Markdown文档成稿，可直接发送至邮箱mpedia@munshare.com
+
 
 - 关于引用和学术规范请参考[格式规范](../topic_intro_edit/Reference.md)
 - 关于Markdown语法请参考[Markdown标记规范](../topic_intro_edit/Markdown.md)

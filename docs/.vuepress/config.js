@@ -27,7 +27,7 @@ module.exports = {
                     {text:'1.会前准备',link:'/topic_guide_conference/1Preparation.html'},//指定md文件以Procedure.html结尾
                     {text:'2.会议角色',link:'/topic_guide_conference/2Role.html'},//指定md文件以Role.html结尾
                     {text:'3.会议期间',link:'/topic_guide_conference/3OfficialProcess.html'},//指定md文件以Session.html结尾
-                    {text:'4.文件提交',link:'/topic_guide_conference/4PaperWriting.html'},//指定md文件以Document.html结尾
+                    {text:'4.文件提交',link:'/topic_guide_conference/4PaperSubmission.html'},//指定md文件以Document.html结尾
                 ]},
             ]
             },
@@ -81,7 +81,7 @@ module.exports = {
                 '1Preparation',
                 '2Role',
                 '3OfficialProcess',
-                '4PaperWriting'
+                '4PaperSubmission'
             ]
 
         }
@@ -114,6 +114,7 @@ function getUNSidebar() {
     return[
         '',
         'AboutUN',
+        'ClimateChange',
         'SDG',
         'Refugees',
 
@@ -206,7 +207,7 @@ function getUNTopicsSidebar(groupA){
         '',
         'AboutUN',
         'SDG',
-        'Climate Change'
+        'ClimateChange'
     ]
 }
 
@@ -221,8 +222,11 @@ function getHostSidebar(){
 function getAdvancedSidebar(){
     return[
         '',
+        '3MUNvocabulary',
+        'MUNvocabulary',
         'Intro',
         'Crisis Committee',
+        'LinkageSystem',
         'Historical Committee',
 
     ]

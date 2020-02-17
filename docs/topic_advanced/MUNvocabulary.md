@@ -1,80 +1,20 @@
-# MUN常用英文词汇
-
-## [成员国名称](http://www.un.org/en/member-states/index.html)
-
-## 国际组织、联盟、协会
-- Assembly of the Heads of State and Government of the Organization of African Unity 	非洲国家和政府会议
-- Arab Summit Conference 	阿拉伯首脑会议
-- Asian and Pacific Council, ASPAC 	亚洲太平洋地区理事会
-- Australia, New Zealand, United States Treaty Organization Council, ANZUS 	澳新美理事会
-- Community 	共同体
-- Caribbean Common Market 	加勒比共同市场
-- Caribbean community, CARICOM 	加勒比共同体
-- Central American Market, CACM 	中美洲共同市场
-- Conference of Heads of State and Government of Non-Aligned Countries 	不结盟国家和政府首脑会议（不结盟国家会议）
-- Conference of Developing Countries (the 77-nation group)	开发中国家会议（七十七国集团）
-- Conference of Heads of State and Government of East and Central African Countries 	东非和中非国家元首和政府首脑会议（东非和中非国家首脑会议）
-- Economic Community of West African States, ECOWAS 	西非国家经济共同体
-- European Common Market 	欧洲共同市场
-- European Economic Community, EEC 	欧洲经济共同体
-- French Community 	法兰西共同体
-- Islamic Conference 	伊斯兰会议
-- Nordic Council 	北欧理事会
-- World Peace Council 	世界和平理事会
-- International Confederation of Free Trade Union, ICFTU 	国际自由工会联合会
-- World Confederation of Labor, WCL 	世界劳工联合会
-- World Federation of Trade Unions, WFTU 	世界工会联合会
-- World Federation of United Nations Associations, WFUNA 	联合国协会世界联合会
-- Association of South East Asian Nations, ASEAN 	东南亚国家联盟（东盟）
-- European Broadcasting Union, EBU 	欧洲广播联盟
-- European Free Trade Association, EFTA 	欧洲自由贸易联盟
-- International Cooperative Alliance, ICA 	国际合作社联盟
-- Inter-Parliamentary Union, IPU 	各国议会联盟
-- League of Arab States (Arab League)	阿拉伯国家联盟
-- Western European Union, WEU 	西欧联盟
-- Afro-Asian Journalists' Association	亚非新闻工作者协会
-- Afro-Asian Writers' Association	亚非作家协会
-- European Community of Writers 	欧洲作家协会
-- International Committee of the Red Cross, ICRC 	红十字国际委员会
-- International Organization of Journalists, IOJ 	国际新闻工作者协会
-- International Pen 	国际笔会
-- International Red Cross Conference, IRCC 	国际红十字大会
-- League of Red Cross Societies, LRCS 	红十字会协会
-- Universal Esperanto Association, UEA 	国际世界语协会
-- African Development Bank, AFDB 	非州开发银行
-- Asian Development Bank, ADB 	亚洲开发银行
-- Caribbean Development Bank, CDB 	加勒比开发银行
-- European Investment Bank, EIB	欧洲投资银行
-- Inter-American Development Bank, IADB 	美洲开发银行
-- International Bank for Economic Co-operation, IBEC 	国际经济合作银行
-- Islamic Development Bank, IDB 	伊斯兰开发银行
-- World Bank 	世界银行
-- Andean Pact Organization (Andean group), ANCOM 	安第斯条约组织（安第斯集团）
-- European Organization for Nuclear Research, CERN 	欧洲核研究组织
-- International Radio and Television Organization, OIRT 	国际广播电视组织
-- International Telecommunication Satellite Consortium, INTELSAT 	国际通讯卫星组织
-- North Atlantic Treaty Organization, NATO 	北大西洋公约组织（北约）
-- Organization of African Unity, OAU 	非洲统一组织
-- Organization of American States, OAS 	美洲国家组织
-- Organization of Arab Petroleum Exporting Countries, OAPEC 	阿拉伯石油输出国组织
-- Organization of central American States 	中美洲国家组织
-- Organization of the Islamic Conference, OCAS 	伊斯兰会议组织
-- Organization of the Petroleum Exporting Countries, OPEC 	石油输出国组织（欧佩克）
-
+# MUN常用词汇语句参考
 
 ## 基本词汇
+
+### A
 - Amendment 修正(案)
 - Abstain弃权
 - Agenda日程
-
+### B
 - Badge胸卡
 - Background guide背景资料
 - Bloc国家集团
-
+### C
 - Chair主席
 - Close the debate 结束辩论
 - Caucus磋商
-
+### D
 - Deprive the right to rote 取消表决权
 - Delegate 代表
 - Deputy 副代表
@@ -87,7 +27,7 @@
 - Draft Resolution 决议草案
 - Draft directive指示草案
 - Draw lots 抽签
-
+### E
 - Elect by an absolute (a simple) majority 以绝对（简单）多数选出
 - Emergency meeting 紧急会议
 - Enjoy privileges 享受特权
@@ -98,7 +38,7 @@
 - Explain one’s rote 对所投的票加以说明
 - Extend the term of office 延长任期
 - Extraordinary session 特别会议
-
+### F
 - Fill a vacancy 补缺
 - Final report 最后报告
 - First ballot 第一次投票表决
@@ -107,7 +47,7 @@
 - Foot-note 脚注
 - Formal debate正式辩论
 - Faculty Advisor代表团指导
-
+### G
 - Gallery 旁听席
 - General committee 总务委员会
 - General debate 一般性辩论
@@ -118,7 +58,7 @@
 - Give up the office to chairman 放弃主席的职务
 - Go back upon a vote 重新表决
 - Governing body 执行机构
-
+### H
 - Hand over the Chair to the Vice-chairman 让副主席担任主席
 - Have priority 有优先权
 - Have the initiative 有倡议权
@@ -127,7 +67,7 @@
 - Heading 标题
 - Honorary president 名誉主席（会长）
 - Host country 东道国
-
+### I
 - I am authorized by my government 我受本国政府授权
 - I ask for the floor 我请求发言
 - I give the floor to 我请…（发言）
@@ -150,14 +90,14 @@
 - Invite speakers to be brief 请发言人简明扼要些
 - Invoke the chairman’s authority 请使用主席的权利
 - Item on the agenda 议程项目
-
+### L
 - Leave it to the decision of the majority 由多数决定
 - Leave the matter to the chairman’s decision 把事情交由主席决定
 - Legal adviser 法律顾问
 - List of delegates 代表名单
 - List of speakers 发言人名单
 - Lobby 大厅、休息厅
-
+### M
 - Maintain one’s candidature 保持候选资格
 - Maintain order 维持秩序
 - Make a personal statement 以个人名义发表声明
@@ -173,13 +113,12 @@
 - Move that a separate vote be taken 提议分开表决
 - Move the closure of debate 动议结束辩论
 - Moderated caucus有主持核心磋商
-
-
+### N
 - Negative vote 反对票
 - Note 照会
 - Note a statement 将一个声明载入记录
 - Note a violation of the rules 指出对规则的破坏
-
+#### O
 - Object in principle 在原则上反对
 - Observer 观察员
 - Occupy the chair 担任主席
@@ -192,8 +131,7 @@
 - Original text 原文
 - Overrule 驳回
 - Operative clause行动性条款
-
-
+### P
 - Page 意向条
 - Participants 参加者
 - Party to a convention 公约缔约国
@@ -235,9 +173,9 @@
 - Put a question to the vote 把问题付诸表决
 - Put a written question 提出书面问题
 - Put one’s name on the list of speakers 登记发言
-
+### Q
 - Questionnaire 调查表，问题单
-
+### R
 - Raise a point of order 提出程序问题
 - Raise an objection of principle 提出原则性的反对意见
 - Rapporteur 主席助理，报告员
@@ -273,7 +211,7 @@
 - Round table meeting 圆桌会议
 - Rules 规则，法规
 - Rules of procedure 议事规则
-
+### S
 - Seat 座位
 - Second 赞成
 - Secret ballot 无记名投票
@@ -308,7 +246,7 @@
 - Support a nomination 支持某个提名
 - Suspend the rules 放弃对规则的适用
 - Suspend the sitting 停止会议
-
+### T
 - Take a decision upon a motion 对动议作出决定
 - Take a stand for (against) a proposal 赞成（反对）
 - Take into consideration 考虑到
@@ -332,12 +270,11 @@
 - Treaty 条约
 - Tri-partite 三方面
 - Typewriting service pool 打字组
-
+### U
 - Unanimous vote 一致同意
 - Unofficial meeting 非正式会议
 - Unmoderated caucus非正式磋商
-
-
+### V
 - Valid ballot papers 有效票
 - Verbatim record 逐字记录
 - Verbatim reporters 速记人员
@@ -354,14 +291,14 @@
 - Vote on the motion as a whole 表决整个动议
 - Vote without debate 不经辩论的表决
 - Votes cast 已投的票数
-
+### W
 - Waive the rules 放弃对规则的适用
 - We have a quorum 我们已足法定人数
 - Withdraw a proposal 撤回提案
 - Withdraw one’s candidature 撤销候选人资格
 - Working languages 工作人员
 - Working paper 工作文件
-
+### Y
 - Yield time 让渡时间
 - Yield Time to Another Delegate让渡给他国代表
 - Yield Time to Chair让渡给主席
