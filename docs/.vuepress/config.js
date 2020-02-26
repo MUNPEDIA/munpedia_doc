@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'MUNPEDIA 模联知识库',
+    title: 'MUNPEDIA 模联百科',
     description: '关于模联，你想知道的一切',
     themeConfig: {
         repo: 'https://github.com/MUNPEDIA/munpedia_doc',

@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /munpedia.svg
-heroText: MUNPEDIA 模联知识库
+heroText: MUNPEDIA 模联百科
 tagline: 关于模联，你想知道的一切
 actionText: 开始探索 →
 actionLink: /topic_intro_munpedia/
@@ -15,7 +15,7 @@ footer: CC BY-NC-SA 4.0 Licensed | Contact：mpedia@munshare.com | Copyright © 
 
 
 
-### 模联知识库 Highlight 
+### 模联百科 Highlight 
 
 
 - 联合国和模拟联合国总览
