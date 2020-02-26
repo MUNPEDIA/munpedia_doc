@@ -40,11 +40,11 @@ module.exports = {
             {text: 'UN/MUN', items:[
                 {text:'模拟联合国(MUN)',link:'/topic_intro_mun/'},
                 {text:'联合国(UN)',link:'/topic_intro_un/'},]},
-            {text: '更多资源', items:[
+           /*{text: '更多资源', items:[
                 {text:'模拟法庭',link:'/MUNKER/'},
 
             ]
-            },
+            },*/
 
 
 
@@ -131,6 +131,7 @@ function getMUNPEDIASidebar(groupA){
                 '2Reference',
                 '3Markdown',
                 '4Example',
+                '5Github',
             ]
         },
     ]
