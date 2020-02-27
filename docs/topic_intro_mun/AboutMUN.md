@@ -40,12 +40,10 @@
 - **A Guide to Delegate Preparation: A Model United Nations Handbook**, edited by Scott A. Leslie, The United Nations Association of the United States of America, 2004 edition (October 2004), softcover, 296 pages, ISBN 1-880632-71-3.
 - **Becoming a Model UN Delegate - An Essential Guide Through the MUN World**, edited by Marko Kovacevic of MUNPlanet (August 2016)
 - **Organizing Successful MUNs** - practices, trends, innovation, edited by Marko Kovacevic of MUNPlanet (2015)
-- **Engaging the United Nations**: A Brief Introduction to the UN. Brian Dille. Engagement Learning. 2017. ISBN 9780998851808
-系统介绍了模拟联合国活动的基本知识与训练策略，包括模拟联合国的起源和基本概念，参与活动需要进行的学术准备等。
+- **Engaging the United Nations**: A Brief Introduction to the UN. Brian Dille. Engagement Learning. 2017. 
+
 
 
 参考来源
-https://en.wikipedia.org/wiki/Model_United_Nations
-https://baike.baidu.com/item/%E8%81%94%E5%90%88%E5%9B%BD/135426?fr=aladdin
-https://baike.baidu.com/item/%E8%81%94%E5%90%88%E5%9B%BD/135426?fr=aladdin
-https://unsplash.com/
+- [维基百科-模拟联合国](https://en.wikipedia.org/wiki/Model_United_Nations)
+- [百度百科-联合国](https://baike.baidu.com/item/%E8%81%94%E5%90%88%E5%9B%BD/135426?fr=aladdin)
