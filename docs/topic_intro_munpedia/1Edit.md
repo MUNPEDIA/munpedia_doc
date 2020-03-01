@@ -3,7 +3,7 @@
 
 ## 1. 直接编辑
 
-MUNPEDIA文档所有内容以Markdown文件形式托管在Github代码平台上，登录Github账号后可以直接进行编辑。[手把手教你Github编辑操作](/topic_intro_munpedia/5Github.html)
+MUNPEDIA文档所有内容以Markdown文件形式托管在Github代码平台上，登录Github账号后可以直接进行编辑并提交审核。[手把手教你Github编辑操作](/topic_intro_munpedia/5Github.html)
 
 ## 2. 成稿发送
 
