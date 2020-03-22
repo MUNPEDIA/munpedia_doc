@@ -8,8 +8,8 @@ actionLink: /topic_intro_munpedia/
 footer: CC BY-NC-SA 4.0 Licensed | Contact：mpedia@munshare.com | Copyright © 2020 Munshare
 ---
 
-::: tip 2020.2.15 重要更新
-更新了模联发展模块下的规则文档
+::: tip 2020.3.22 重要更新
+增加页面集成的Gitter即时通讯功能，编辑志愿者可以在网页右下角直接留言交流o(￣▽￣)ｄ
 :::
 
 
@@ -38,7 +38,6 @@ footer: CC BY-NC-SA 4.0 Licensed | Contact：mpedia@munshare.com | Copyright © 
 
 #### 模时Munshare
 [模时](www.munshare.com)致力于成为连接中国模联人，构建模联活动社群的平台，为推广模联和提供多元化教育不忘初心，努力奋斗。在模时建立模时主页，积累模联人口碑，查询评价模联会议。在模时分享精彩模联时刻。
-
 
 
 
