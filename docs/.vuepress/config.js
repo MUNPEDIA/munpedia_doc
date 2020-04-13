@@ -9,6 +9,7 @@ module.exports = {
         editLinkText: '帮助我们改进本篇内容!',
         lastUpdated: '最近更新',
         nav: [
+            {text: '模时',link:'http://47.108.171.59'},
             {text: '关于',link:'/topic_intro_munpedia/'},
             {text: '基本指南', items:[
                 {text:'指南介绍',link:'/topic_guide/GuideIntro.html'},
