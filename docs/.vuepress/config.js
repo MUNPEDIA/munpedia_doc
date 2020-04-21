@@ -1,4 +1,5 @@
 module.exports = {
+    base:'/munpedia_doc',
     title: 'MUNPEDIA 模联百科',
     description: '关于模联，你想知道的一切',
     themeConfig: {
