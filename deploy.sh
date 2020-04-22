@@ -15,7 +15,7 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f git@github.com:MUNPEDIA/munpedia_doc.git master:gh-pages
+git push -f git@github.com:MUNPEDIA/MUNPEDIA.github.io.git master
 
 
 cd -
